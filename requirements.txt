@@ -1,0 +1,10 @@
+accelerate
+datasets
+fastapi
+peft
+tokenizers
+torch
+transformers
+huggingface_hub
+sentencepiece
+protobuf
